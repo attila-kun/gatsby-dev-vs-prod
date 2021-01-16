@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"QRA/":function(n,i,o){},S0sc:function(n,i,o){"use strict";o.r(i);o("QRA/");i.default=function(){return"This is red both in develop and in production."}}}]);
+//# sourceMappingURL=component---src-pages-red-js-876e5e4bd36a49cca031.js.map

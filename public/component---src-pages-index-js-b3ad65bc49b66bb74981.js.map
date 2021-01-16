@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"2FAAA,OAAe,2BAAM","file":"component---src-pages-index-js-b3ad65bc49b66bb74981.js","sourcesContent":["export default () => \"This is red in develop but white in production!\";"],"sourceRoot":""}

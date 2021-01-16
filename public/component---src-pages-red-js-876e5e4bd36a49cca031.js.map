@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/red.js"],"names":[],"mappings":"oHAAA,iBACe,2BAAM","file":"component---src-pages-red-js-876e5e4bd36a49cca031.js","sourcesContent":["import '../styles/red.css'\nexport default () => \"This is red both in develop and in production.\";"],"sourceRoot":""}

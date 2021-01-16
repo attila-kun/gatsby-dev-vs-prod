@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,i,e){"use strict";e.r(i),i.default=function(){return"This is red in develop but white in production!"}}}]);
+//# sourceMappingURL=component---src-pages-index-js-b3ad65bc49b66bb74981.js.map
